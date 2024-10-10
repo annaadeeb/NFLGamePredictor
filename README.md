@@ -1,4 +1,4 @@
-# NFL Result Predictor || [```Open in Colab```](https://colab.research.google.com/github/alexmekhail/NFLResultPredictor/blob/main/NFL_Result_Predictor.ipynb)
+# NFL Result Predictor || [```Open in Colab```](https://colab.research.google.com/github/annaadeeb/NFLGamePredictor/blob/main/NFL_Game_Predictor.ipynb)
 
 ## Overview
 This project aims to predict the outcomes of NFL games using machine learning techniques. By analyzing historical NFL game data, the model uses **logistic regression** to forecast the results of upcoming games. The goal is to provide accurate predictions based on key factors and insights from previous matchups.
